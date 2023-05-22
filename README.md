@@ -1,5 +1,5 @@
 # LOLWinTeamJudge
-Use LCU api get players' history to help judge if enemy team is a winning team.
+Use LCU api get players' history to help judge if enemy team is a winning team.  
 调用LCU api获取LOL敌方队伍玩家历史对局信息并判断对方是否是胜率队  
   
 ## 如何使用
